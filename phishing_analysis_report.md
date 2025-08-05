@@ -1,3 +1,6 @@
+**Internship:** Elevate Labs – Cybersecurity Internship  
+**Task:** Phishing Email Analysis (Task 2)
+
 # 🛡️ Phishing Email Analysis Report
 
 ## 📄 Sample Email Summary

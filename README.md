@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Phishing Email Analysis
 
-This repository contains my submission for **Task 2** of the Cyber Security Internship.  
+This repository contains my submission for **Task 2** of the Cyber Security Internship at Elevate Labs.  
 The objective was to analyze a suspicious email and identify phishing indicators using various tools.
 
 ---
